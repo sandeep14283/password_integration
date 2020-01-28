@@ -1,0 +1,12 @@
+[submodule "web"]
+	path = web
+	url = https://github.com/sandeep14283/web.git
+[submodule "password-sha"]
+	path = password-sha
+	url = https://github.com/sandeep14283/password-sha.git
+[submodule "password-md5"]
+	path = password-md5
+	url = https://github.com/sandeep14283/password-md5.git
+[submodule "password"]
+	path = password
+	url = https://github.com/sandeep14283/password.git
